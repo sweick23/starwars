@@ -1,0 +1,46 @@
+header{
+	margin: 0 auto;
+	background: orange;
+	padding: 5px;
+
+}
+h1, h4{
+	margin-left: 2.5%;
+	
+}
+.row{
+	height: auto;
+	padding-top: 40px;
+	
+}
+div.col-4{
+	width: 95%;
+	background: white;
+	
+
+}
+.col-4{
+	margin-bottom: 60px;
+	
+	
+}
+
+div.img {
+    margin-bottom: 20px;
+    border:  1px solid #DDD;
+    float: left;
+    margin-left: 10px;
+}
+
+
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+
+    padding: 15px;
+   
+}
